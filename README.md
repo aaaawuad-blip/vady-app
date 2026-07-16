@@ -51,4 +51,4 @@
 
 ## الترخيص والمصدر
 
-هذا المشروع بُني بالاعتماد على منصة [iappyxOS](https://github.com/iappyx/iappyxOS) (رخصة MIT).
+هذا المشروع بُني بالاعتماد على منصة [iappyxOS](https://github.com/iappyx/iappyxOS) (رخصة MIT). 
